@@ -17,7 +17,7 @@ HTTP server to convert any torrent to video stream
 
 ## Installation
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KiraLT/torrent-stream-server)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WhitePrime/torrentonline)
 
 ### NPM package:
 
@@ -29,7 +29,7 @@ HTTP server to convert any torrent to video stream
 
 One-click ready-to-code development environments:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/KiraLT/torrent-stream-server)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/WhitePrime/torrentonline)
 
 > Frontend & backend are separate packages.
 
