@@ -29,11 +29,11 @@ export function ContentComponent(): JSX.Element {
                 </nav>
                 <a
                     className="btn btn-outline-primary"
-                    href="https://github.com/KiraLT/torrent-stream-server"
+                    href="https://ttttt.me/ITHard"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Find on GitHub
+                    Telegram
                 </a>
             </div>
 
